@@ -6,6 +6,10 @@ Basically check SOCKS5 Proxy is currently passed online or not. If it is passed 
 
 If you need help implementing this, feels free to dm me at discord junssekut#4964 or join my [discord server](https://dsc.gg/machseeman).
 
+## Output
+> The output of the script would be:
+![output](img/output.png?raw=true "Output")
+
 ## How To Use
 
 > Creating your custom config:
